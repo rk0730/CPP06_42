@@ -1,0 +1,10 @@
+.DS_Store
+objs
+*.o
+*.a
+a.out
+.vscode
+.clang-format
+
+# ex00
+convert
